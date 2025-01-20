@@ -1,0 +1,1 @@
+# Documentation describing how to use Mermaid with markdown documents

@@ -2,12 +2,12 @@
 **Software Developer | IT Solutions Architect | Project Manager**
 
 ### 👋 About Me
-I’m a Software Developer and IT Professional based in New Zealand with a background in project and programme management. I enjoy bridging the gap between complex infrastructure needs and elegant software solutions.
+I am a Software Developer and IT Professional based in New Zealand with a background in project and programme management. I enjoy bridging the gap between complex infrastructure needs and elegant software solutions.
 
 - 🔭 **Currently Migrating:** A 26-year-old MS Access shares registry to a modern stack: **FastAPI, HTMX, Bootstrap 5, and Jinja2**.
-- 🌱 **Learning:** Expanding my toolkit in GIS, spatial data analysis, and advanced visualization.
-- 🤝 **Community:** Helping to organise and producing content for the **Python Learners Co-op** via [NZPUG](https://github.com/williamhamilton/NZPUG/).
-- ⚡ **Fun Fact:** When I'm not fixing or mataining something on my lifestyle block or tinkering with custom hardware, I'm out on the water practicing sailing (and occasionally practicing my "not drowning" skills).
+- 🌱 **Learning:** Expanding my toolkit in GIS, spatial data analysis, and advanced visualisation.
+- 🤝 **Community:** Helping to organise and produce content for the **Python Learners Co-op** via [NZPUG](https://github.com/williamhamilton/NZPUG/).
+- ⚡ **Fun Fact:** When I'm not fixing or maintaining something on my lifestyle block or tinkering with custom hardware, I'm out on the water practising sailing (and occasionally practising my "not drowning" skills).
 
 ### 🛠️ Tech Stack & Tools
 - **Languages:** Python, JavaScript, SQL

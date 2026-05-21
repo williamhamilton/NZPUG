@@ -62,26 +62,6 @@ sequenceDiagram
     Note over Gateway,Client: Content-Type: application/json
 ```
 
-```mermaid
-sequenceDiagram
-    autonumber
-    actor App as Application
-    participant Server as Web Server
-
-    App->>Server: HTTP Request (Method, URL, Headers, Body)
-    Note over App,Server: 1. Request phase
-
-    rect rgb(240, 245, 255)
-        Note over Server: 2. Processing phase
-        Server->>Server: Validate Authentication
-        Server->>Server: Execute Business Logic
-    end
-
-    Server-->>App: HTTP Response (Status Code, Headers, JSON Body)
-    Note over Server,App: 3. Response phase
-```
-***WHICH IMAGE IS BEST??***
-
 * **The Request:** Your application sends an HTTP message containing a Method, URL, Headers, and sometimes a Body.
 * **The Processing:** The server receives the request, validates the authentication, and performs the logic.
 * **The Response:** The server sends back a Status Code, Headers, and a Body (usually JSON).
@@ -297,3 +277,4 @@ except requests.exceptions.RequestException as exc:
 - Trade Me Developer Portal: https://developer.trademe.co.nz/
 - Example docs site: https://massive.com/docs
 - https://pypi.org/project/datamodel-code-generator/0.33.0/
+- https://www.httpbin.org/

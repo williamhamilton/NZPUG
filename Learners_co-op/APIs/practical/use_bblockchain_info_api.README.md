@@ -48,7 +48,6 @@ The `create_chart` function is structured in sections to allow for a step-by-ste
 * **Language:** Python 3.14+
 * **Visualisation:** Plotly Graph Objects
 * **Data Source:** [Blockchain.com Charts API](https://www.blockchain.com/explorer/api/charts_api)
-* **Formatting:** New Zealand English (NZ-en) conventions.
 
 ---
 

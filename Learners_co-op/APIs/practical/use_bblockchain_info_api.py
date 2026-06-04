@@ -2,7 +2,6 @@
 Blockchain Market Analysis Tool
 -------------------------------
 A layered script for a Python Learners Co-op workshop.
-Standardised to New Zealand English (NZ-en).
 
 Layers:
 1. Core Data Fetch & Plot
